@@ -1,4 +1,4 @@
-# A bacic learned image compression frame for new learners
+# A basic learned image compression frame for new learners
 
 this is a basic learned image compression frame
 
