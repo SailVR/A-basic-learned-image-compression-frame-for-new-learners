@@ -62,7 +62,7 @@ The train lmbda are follows：
 ```
 python test.py /path/train/ --val /path/val/ -p /path/pretrained_model/
 ```
-
+pretrained model can be download in [this](https://pan.baidu.com/s/1EOcOmBd-dOHiQLEc4AA0uQ ) code:jhnx
 The result of test_img.py is same as test.py
 
 # Other
